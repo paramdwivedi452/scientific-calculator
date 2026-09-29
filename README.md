@@ -54,10 +54,3 @@ Run the program and try the following manual checks:
 | Complex square root | Choose `7`, then `3+4j` | A complex square-root result |
 | Invalid input | Enter text where a number is requested | An invalid-input message |
 
-## Screenshots
-
-Screenshots are optional. Add one here if desired, for example:
-
-```markdown
-![Scientific Calculator running in a terminal](screenshots/calculator.png)
-```
